@@ -1,15 +1,46 @@
 primary:
-  - text: Documentation
-    href: /docs/
-  - text: Navigation section
+  
+  - text: Federal Privacy Council
     links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-
+      - text: Purpose & Vision 
+        href: /federal-privacy-council/#purpose
+      - text: Objectives
+        href: /federal-privacy-council/#objectives
+      - text: Organization
+        href: /federal-privacy-council/#organization
+      - text: Council Members 
+        href: /federal-privacy-council/council-members
+      - text: Other Councils
+        href: /federal-privacy-council/#councils
+  - text: Law Library
+     href: /law-library/
+  - text: Resources
+    links:
+      - text: Federal Privacy Programs 
+        href: /federal-privacy-council/#purpose
+      - text: Office of Management & Budget
+        href: /federal-privacy-council/#objectives
+      - text: Privacy and Civil Liberties Oversight Board (PCLOB)
+        href: /federal-privacy-council/#organization
+      - text: National Insititute of Standards and Technology
+        href: /federal-privacy-council/council-members
+      - text: Helping Consumers
+        href: /federal-privacy-council/#councils
+      - text: Helping Consumers
+        href: /federal-privacy-council/council-members
+      - text: Government-wide SORNs
+        href: /federal-privacy-council/#councils
+      - text: Beyond the Executive Branch
+        href: /federal-privacy-council/council-members
+      - text: Glossary
+        href: /federal-privacy-council/#councils
+  - text: Implementation
+    href: /implementation-innovation/
+  - text: Federal Agencies
+    href: /federal-agencies/
+  - text: Federal Agencies
+    href: /careers/ 
+     
 footer:
   - text: Documentation
     href: /docs/
